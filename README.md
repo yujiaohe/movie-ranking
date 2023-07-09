@@ -2,10 +2,7 @@
 
 This is a web application for tracking and ranking movies. You can add movies to your collection, rate them, and write reviews. The application utilizes the Flask framework, SQLAlchemy for database management, and the TMDB API for fetching movie details.
 
-<img src="images/home.png" style="width: 160px; height: 200px; border: solid">
-<img src="images/edit.png" style="width: 180px; height: 200px; border: solid">
-<img src="images/add.png" style="width: 200px; height: 200px; border: solid">
-<img src="images/update.png" style="width: 200px; height: 200px; border: solid">
+<img src="images/home.png" style="width: 180px; height: 200px;"> <img src="images/edit.png" style="width: 200px; height: 200px;"> <img src="images/add.png" style="width: 200px; height: 200px;"> <img src="images/update.png" style="width: 200px; height: 200px;">
 
 ## Features
 
